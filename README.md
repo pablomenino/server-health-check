@@ -1,9 +1,7 @@
-# server-health-check
+<h3 align="center">server-health-check</h3>
+<p align="center">server-health-check is a Server Status & Health Check in Linux scrtip for Linux, developed in Python 3.</p>
 
-![GitHub release](https://img.shields.io/github/release/pablomenino/server-health-check.svg) 
-![GitHub](https://img.shields.io/github/license/pablomenino/server-health-check.svg)
-
-**Version 0.1**
-
-server-health-check is a Server Status & Health Check in Linux scrtip for Linux, developed in Python 3.
-
+<p align="center">
+<a href="https://github.com/pablomenino/server-health-check/releases"><img src="https://img.shields.io/github/release/pablomenino/server-health-check.svg"></a>
+<a href="./LICENSE"><img src="https://img.shields.io/github/license/pablomenino/server-health-check.svg"></a>
+</p>
