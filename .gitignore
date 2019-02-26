@@ -1,5 +1,13 @@
 ### GitIgnore file ###
 
+modules/*.pyc
+
+modules/__pycache__/
+
+__pycache__/
+
+*.pyc
+
 # Cache files
 .temp/
 .libs/
